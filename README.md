@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there thanks for checking out my profile 👋
+
+- 🔭 I’m currently working on becoming a software developer
+- 🌱 I’m currently learning Java through a part time course "Coding Practices (Level 3)"
 
 <!--
 **mcg1nley/mcg1nley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
