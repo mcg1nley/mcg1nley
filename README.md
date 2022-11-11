@@ -1,4 +1,5 @@
-### Hi there thanks for checking out my profile 👋
+# Josh McGinley - Developer 👋
+www.joshmcginley.co.uk
 
 - 🔭 I’m currently working on becoming a software developer
 - 🌱 I’m currently learning Java through a part time course "Coding Practices (Level 3)"
