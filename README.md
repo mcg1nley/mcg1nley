@@ -1,6 +1,6 @@
 # Josh McGinley :uk:
 ## Thanks for visiting my profile
-https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.describe-microsoft-365-core-services-concepts.trophy?username=mcg1nley-6743
+
 
 - 🖥️ Software developer
 - 🖥️ Currently studying - Coding Practices (Level 3)
