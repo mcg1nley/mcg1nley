@@ -14,6 +14,7 @@ I am a self taught web and software developer. I have worked on various projects
 - Typescript
 - React
 - Java
+- Python
 
 <!--
 **mcg1nley/mcg1nley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
